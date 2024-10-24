@@ -59,7 +59,6 @@ education:
       - 'Medical Engineering (human physiology, signal measurement and processing)'
       - 'Image and language processing'
       - System architecture, operating systems, and parallel processing
-      - '**Thesis**: Including Update Mechanisms for Network Models into State Estimation in Networked Control Systems'
   - institution: Karlsruhe Institute of Technology (KIT)
     area: Computer Science
     degree: B. Sc.
@@ -69,7 +68,6 @@ education:
       - 'Programming (Java, C++, C, Assembly) and algorithm engineering'
       - 'Mathematics (numerical analysis, statistics, linear algebra, and calculus)'
       - 'Robotics (control theory, signal processing, mathematical modelling)'
-      - '**Thesis**: Fuzzy Memoization with Hash-based Key-Value Stores'
 
 ---
 
