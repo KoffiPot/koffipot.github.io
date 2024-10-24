@@ -65,7 +65,7 @@ education:
 work:
   - company_name: Fraunhofer IOSB
     company_url: https://www.iosb.fraunhofer.de/
-    position: Researcher and developer
+    position: Researcher and Developer
     date_start: 2021-03-15
     date_end: ''
   - company_name: Discovergy GmbH
@@ -108,7 +108,7 @@ skills:
         description: ''
         #icon: flying-disc
 
-languages:
+#languages:
   #- name: German
     #percent: 100
   #- name: English
@@ -118,4 +118,4 @@ languages:
 
 ## About Me
 
-Joanna Mueller is a researcher at Fraunhofer IOSB. Her research interests include robotics and medical engineering.
+Joanna Mueller is a researcher at Fraunhofer IOSB. Their research interests include robotics and medical engineering.
