@@ -55,7 +55,7 @@ education:
     date_start: 2016-10-01
     date_end: 2020-03-31
     summary: |
-      Research focus: robotics, medical engineering, machine learning, and computer architecture
+      Robotics, medical engineering, machine learning, and computer architecture
   - institution: Karlsruhe Institute of Technology (KIT)
     area: Computer Science
     degree: B. Sc.
@@ -82,14 +82,30 @@ skills:
       - name: Python
         description: ''
         # percent: 80
+        icon: python
+      - name: C++ and C#
+        description: ''
+        # percent: 80
         icon: code-bracket
+      - name: ROS/ROS2
+        description: ''
+        # percent: 80
+        icon: robot
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Ultimate Frisbee
         description: ''
-        #percent: 60
+        #icon: flying-disc
+      - name: Drawing/Sketching
+        description: ''
+        #icon: flying-disc
+      - name: Guitar
+        description: ''
+        icon: guitar
+      - name: Studying
+        description: ''
         #icon: flying-disc
 
 languages:
