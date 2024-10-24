@@ -62,6 +62,41 @@ education:
     date_start: 2012-10-01
     date_end: 2016-09-30
 
+work:
+  - company_name: Fraunhofer IOSB
+    company_url: https://www.iosb.fraunhofer.de/
+    position: Researcher and developer
+    date_start: 2021-03-15
+    date_end: ''
+  - company_name: Discovergy GmbH
+    company_url: https://www.inexogy.com/
+    position: Software Developer
+    date_start: 2019-07-01
+    date_end: 2020-10-31
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        # percent: 80
+        icon: code-bracket
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Ultimate Frisbee
+        description: ''
+        #percent: 60
+        icon: flying-disc
+
+languages:
+  - name: German
+    #percent: 100
+  - name: English
+    #percent: 75
 
 ---
 
