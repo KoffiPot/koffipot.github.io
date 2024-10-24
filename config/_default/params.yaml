@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Joanna Mueller"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}. Image by <a href="https://pixabay.com/users/elg21-3764790/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8029036">Enrique</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8029036">Pixabay</a>'
     license:
       enable: true
       allow_derivatives: false

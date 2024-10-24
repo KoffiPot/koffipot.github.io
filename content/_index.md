@@ -31,7 +31,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  #- block: markdown
   #  content:
   #    title: '📚 My Research'
   #    subtitle: ''
@@ -55,8 +55,9 @@ sections:
   #    view: article-grid
   #    columns: 2
   - block: collection
+    id: papers
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -77,7 +78,6 @@ sections:
         
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
 
-        Image by <a href="https://pixabay.com/users/elg21-3764790/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8029036">Enrique</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8029036">Pixabay</a>
       button:
         text: Get Started
         url: https://hugoblox.com/templates/
