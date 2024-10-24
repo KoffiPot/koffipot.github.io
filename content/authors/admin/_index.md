@@ -49,25 +49,18 @@ interests:
   - Game development
 
 education:
-  - institution: Karlsruhe Institute of Technology (KIT)
-    area: Computer Science
+  - area: Computer Science
+    institution: Karlsruhe Institute of Technology (KIT)
     degree: M. Sc.
     date_start: 2016-10
     date_end: 2020-03
     summary: |
+      Courses included: 
+
       - 'Robotics (mathematical modelling, control, and localization)'
       - 'Medical Engineering (human physiology, signal measurement and processing)'
       - 'Image and language processing'
       - System architecture, operating systems, and parallel processing
-  - institution: Karlsruhe Institute of Technology (KIT)
-    area: Computer Science
-    degree: B. Sc.
-    date_start: 2012-10
-    date_end: 2016-09
-    summary: |
-      - 'Programming (Java, C++, C, Assembly) and algorithm engineering'
-      - 'Mathematics (numerical analysis, statistics, linear algebra, and calculus)'
-      - 'Robotics (control theory, signal processing, mathematical modelling)'
 
 ---
 
