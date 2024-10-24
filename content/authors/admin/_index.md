@@ -54,13 +54,6 @@ education:
     degree: M. Sc.
     date_start: 2016-10
     date_end: 2020-03
-    summary: |
-      Courses included: 
-
-      - 'Robotics (mathematical modelling, control, and localization)'
-      - 'Medical Engineering (human physiology, signal measurement and processing)'
-      - 'Image and language processing'
-      - System architecture, operating systems, and parallel processing
 
 ---
 
