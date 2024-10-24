@@ -90,7 +90,7 @@ skills:
       - name: ROS/ROS2
         description: ''
         # percent: 80
-        icon: robot
+        icon: robot-solid
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
