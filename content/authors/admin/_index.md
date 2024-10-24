@@ -90,7 +90,7 @@ skills:
       - name: Ultimate Frisbee
         description: ''
         #percent: 60
-        icon: flying-disc
+        #icon: flying-disc
 
 languages:
   - name: German
