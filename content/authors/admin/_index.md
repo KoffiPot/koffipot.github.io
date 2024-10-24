@@ -103,15 +103,15 @@ skills:
         #icon: flying-disc
       - name: Guitar
         description: ''
-        icon: guitar
+        icon: fa-guitar
       - name: Studying
         description: ''
         #icon: flying-disc
 
 languages:
-  - name: German
+  #- name: German
     #percent: 100
-  - name: English
+  #- name: English
     #percent: 75
 
 ---
