@@ -49,15 +49,19 @@ interests:
   - Game development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer Science
+    institution: Karlsruhe Institute of Technology (KIT)
+    degree: M. Sc.
+    date_start: 2016-10-01
+    date_end: 2020-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Research focus: robotics, medical engineering, machine learning, and computer architecture
+  - institution: Karlsruhe Institute of Technology (KIT)
+    area: Computer Science
+    degree: B. Sc.
+    date_start: 2012-10-01
+    date_end: 2016-09-30
+
 
 ---
 
