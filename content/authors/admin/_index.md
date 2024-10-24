@@ -58,21 +58,21 @@ education:
     date_start: 2016-10
     date_end: 2020-03
     summary: |
-      - 'Robotics (mathematical modelling, control, and localization)'
-      - 'Medical Engineering (human physiology, signal measurement and processing)'
-      - 'Image and language processing'
+      - Robotics (mathematical modelling, control, and localization)
+      - Medical Engineering (human physiology, signal measurement and processing)
+      - Image and language processing
       - System architecture, operating systems, and parallel processing
-      - '**Thesis**: Including Update Mechanisms for Network Models into State Estimation in Networked Control Systems'
-    - institution: Karlsruhe Institute of Technology (KIT)
-      area: Computer Science
-      degree: B. Sc.
-      date_start: 2012-10
-      date_end: 2016-09
-      summary: |
-        - 'Programming (Java, C++, C, Assembly) and algorithm engineering'
-        - 'Mathematics (numerical analysis, statistics, linear algebra, and calculus)'
-        - 'Robotics (control theory, signal processing, mathematical modelling)'
-        - '**Thesis**: Fuzzy Memoization with Hash-based Key-Value Stores'
+      - **Thesis**: Including Update Mechanisms for Network Models into State Estimation in Networked Control Systems
+  - institution: Karlsruhe Institute of Technology (KIT)
+    area: Computer Science
+    degree: B. Sc.
+    date_start: 2012-10
+    date_end: 2016-09
+    summary: |
+      - 'Programming (Java, C++, C, Assembly) and algorithm engineering'
+      - 'Mathematics (numerical analysis, statistics, linear algebra, and calculus)'
+      - 'Robotics (control theory, signal processing, mathematical modelling)'
+      - '**Thesis**: Fuzzy Memoization with Hash-based Key-Value Stores'
 work:
   - company_name: Fraunhofer IOSB
     company_url: https://www.iosb.fraunhofer.de/
