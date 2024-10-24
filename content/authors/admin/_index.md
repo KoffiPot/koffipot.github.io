@@ -90,7 +90,7 @@ skills:
       - name: ROS/ROS2
         description: ''
         # percent: 80
-        icon: robot-solid
+        #icon: robot-solid
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -103,7 +103,7 @@ skills:
         #icon: flying-disc
       - name: Guitar
         description: ''
-        icon: fa-guitar
+        #icon: fa-guitar
       - name: Studying
         description: ''
         #icon: flying-disc
