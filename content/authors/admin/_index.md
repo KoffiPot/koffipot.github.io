@@ -77,17 +77,31 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Language Skills
     items:
       - name: Python
         description: ''
         # percent: 80
         icon: python
-      - name: C++ and C#
+      - name: C++, C
         description: ''
         # percent: 80
         icon: code-bracket
+      - name: C#, .Net/Mono
+        description: ''
+        # percent: 80
+        icon: code-bracket
+  - name: Technical Skills
+    items:
+      - name: Docker/Podman
+        description: ''
+        # percent: 80
+        #icon: robot-solid
       - name: ROS/ROS2
+        description: ''
+        # percent: 80
+        icon: ros2-logo
+      - name: LaTeX
         description: ''
         # percent: 80
         #icon: robot-solid

@@ -73,10 +73,10 @@ sections:
   #  content:
   #    title: Awards
   #    username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+  # - block: collection
+  #   content:
+  #     title: Languages
+  #     username: admin
   - block: collection
     id: papers
     content:
