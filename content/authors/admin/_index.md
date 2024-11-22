@@ -45,7 +45,7 @@ profiles:
 
 interests:
   - Humanoid robotics
-  - Heterogeneous robot swarms
+  - Heterogeneous multi-agent systems
   - Game development
 
 education:
