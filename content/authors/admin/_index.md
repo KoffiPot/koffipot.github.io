@@ -104,7 +104,7 @@ skills:
       - name: ROS/ROS2
         description: ''
         # percent: 80
-        icon: ros2-logo.png
+        icon: custom/ros2-logo.png
       - name: LaTeX
         description: ''
         # percent: 80
