@@ -120,7 +120,7 @@ skills:
       - name: Ultimate Frisbee
         description: ''
         icon: hero/fire
-      - name: Drawing/Sketching
+      - name: Drawing
         description: ''
         icon: hero/pencil
       - name: Guitar
