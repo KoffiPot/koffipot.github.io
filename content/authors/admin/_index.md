@@ -88,46 +88,47 @@ skills:
       - name: C++, C
         description: ''
         # percent: 80
-        icon: code-bracket
+        icon: devicon/cplusplus
       - name: C#, .Net/Mono
         description: ''
         # percent: 80
-        icon: code-bracket
-      - name: 'Typescript/Javascript'
+        icon: devicon/csharp
+      - name: 'Typescript'
         description: ''
         icon: devicon/typescript
   - name: Technical Skills
     items:
-      - name: Docker/Podman
+      - name: Podman/Docker
         description: ''
         # percent: 80
-        #icon: robot-solid
-      - name: ROS/ROS2
+        icon: devicon/podman
+      - name: ROS2/ROS
         description: ''
         # percent: 80
-        icon: custom/ros2-logo.png
-      - name: LaTeX
+        icon: devicon/ros
+      - name: ''
         description: ''
         # percent: 80
-        #icon: robot-solid
+        icon: devicon/latex
       - name: Git
         description: ''
+        icon: devicon/git
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Ultimate Frisbee
         description: ''
-        #icon: flying-disc
+        icon: hero/fire
       - name: Drawing/Sketching
         description: ''
-        #icon: flying-disc
+        icon: hero/pencil
       - name: Guitar
         description: ''
-        #icon: fa-guitar
+        icon: hero/musical-note
       - name: Studying
         description: ''
-        #icon: flying-disc
+        icon: hero/building-library
 
 #languages:
   #- name: German
