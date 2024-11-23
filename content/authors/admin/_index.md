@@ -38,7 +38,7 @@ profiles:
     url: https://github.com/KoffiPot
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/joanna-m%C3%BCller-8aa518254
-  - icon: custom/ResearchGate_logo.png
+  - icon: "custom/ResearchGate_logo"
     url: https://www.researchgate.net/profile/Joanna-Mueller-3
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
