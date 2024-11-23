@@ -38,7 +38,7 @@ profiles:
     url: https://github.com/KoffiPot
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/joanna-m%C3%BCller-8aa518254
-  - icon: "custom/ResearchGate_logo"
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Joanna-Mueller-3
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
@@ -93,8 +93,9 @@ skills:
         description: ''
         # percent: 80
         icon: code-bracket
-      - name: ''
+      - name: 'Typescript/Javascript'
         description: ''
+        icon: devicon/typescript
   - name: Technical Skills
     items:
       - name: Docker/Podman
@@ -109,6 +110,8 @@ skills:
         description: ''
         # percent: 80
         #icon: robot-solid
+      - name: Git
+        description: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
