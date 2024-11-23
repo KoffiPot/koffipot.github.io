@@ -34,10 +34,12 @@ profiles:
   #  url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
   #  url: https://www.instagram.com/
-  #- icon: brands/github
-  #  url: https://github.com/gcushen
+  - icon: brands/github
+    url: https://github.com/KoffiPot
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/joanna-m%C3%BCller-8aa518254
+  - icon: custom/ResearchGate_logo.png
+    url: https://www.researchgate.net/profile/Joanna-Mueller-3
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   #- icon: academicons/orcid
@@ -49,7 +51,7 @@ interests:
   - Game development
 
 education:
-  - area: Computer Science
+  - area: Computer Science, M. Sc.
     institution: Karlsruhe Institute of Technology (KIT)
     degree: M. Sc.
     date_start: 2016-10-01
@@ -57,7 +59,7 @@ education:
     summary: |
       Robotics, medical engineering, machine learning, and computer architecture
   - institution: Karlsruhe Institute of Technology (KIT)
-    area: Computer Science
+    area: Computer Science, B. Sc.
     degree: B. Sc.
     date_start: 2012-10-01
     date_end: 2016-09-30
@@ -91,6 +93,8 @@ skills:
         description: ''
         # percent: 80
         icon: code-bracket
+      - name: ''
+        description: ''
   - name: Technical Skills
     items:
       - name: Docker/Podman
@@ -100,7 +104,7 @@ skills:
       - name: ROS/ROS2
         description: ''
         # percent: 80
-        icon: ros2-logo
+        icon: ros2-logo.png
       - name: LaTeX
         description: ''
         # percent: 80
