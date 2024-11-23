@@ -106,7 +106,7 @@ skills:
         description: ''
         # percent: 80
         icon: devicon/ros
-      - name: ''
+      - name: 'LaTeX'
         description: ''
         # percent: 80
         icon: devicon/latex
