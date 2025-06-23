@@ -140,4 +140,4 @@ skills:
 
 ## About Me
 
-Joanna Mueller is a researcher at Fraunhofer IOSB. Their research interests include robotics and medical engineering.
+Joanna Mueller is a researcher. Their research interests include humanoid robotics and medical engineering.
