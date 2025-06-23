@@ -20,9 +20,9 @@ highlight_name: true
 role: Computer Scientist/Researcher
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Fraunhofer IOSB
-    url: https://www.iosb.fraunhofer.de/
+#organizations:
+  #- name: Fraunhofer IOSB
+  #  url: https://www.iosb.fraunhofer.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -69,7 +69,7 @@ work:
     company_url: https://www.iosb.fraunhofer.de/
     position: Researcher and Developer
     date_start: 2021-03-15
-    date_end: ''
+    date_end: '2025-03-14'
   - company_name: Discovergy GmbH
     company_url: https://www.inexogy.com/
     position: Software Developer
